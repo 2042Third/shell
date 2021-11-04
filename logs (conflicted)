@@ -1,0 +1,498 @@
+
+Page 3, Thu Nov  4 12:35:16 EDT 2021
+5000: donnemartin/system-design-primer, master
+[written 5001 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/call_center/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/call_center/__init__.py
+[written 5002 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/call_center/call_center.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/call_center/call_center.py
+[written 5003 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/deck_of_cards/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/deck_of_cards/__init__.py
+[written 5004 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/deck_of_cards/deck_of_cards.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.py
+[written 5005 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/hash_table/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/hash_table/__init__.py
+[written 5006 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/hash_table/hash_map.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/hash_table/hash_map.py
+[written 5007 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/lru_cache/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/lru_cache/__init__.py
+[written 5008 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/lru_cache/lru_cache.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/lru_cache/lru_cache.py
+[written 5009 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/online_chat/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/online_chat/__init__.py
+[written 5010 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/online_chat/online_chat.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/online_chat/online_chat.py
+[written 5011 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/parking_lot/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/parking_lot/__init__.py
+[written 5012 3] ../checkout/donnemartin/system-design-primer/solutions/object_oriented_design/parking_lot/parking_lot.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/object_oriented_design/parking_lot/parking_lot.py
+[written 5013 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/mint/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/mint/__init__.py
+[written 5014 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/mint/mint_mapreduce.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/mint/mint_mapreduce.py
+[written 5015 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/mint/mint_snippets.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/mint/mint_snippets.py
+[written 5016 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/pastebin/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/pastebin/__init__.py
+[written 5017 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/pastebin/pastebin.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/pastebin/pastebin.py
+[written 5018 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/query_cache/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/query_cache/__init__.py
+[written 5019 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/query_cache/query_cache_snippets.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/query_cache/query_cache_snippets.py
+[written 5020 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/sales_rank/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/sales_rank/__init__.py
+[written 5021 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/sales_rank/sales_rank_mapreduce.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/sales_rank/sales_rank_mapreduce.py
+[written 5022 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/social_graph/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/social_graph/__init__.py
+[written 5023 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/social_graph/social_graph_snippets.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/social_graph/social_graph_snippets.py
+[written 5024 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/web_crawler/__init__.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/web_crawler/__init__.py
+[written 5025 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/web_crawler/web_crawler_mapreduce.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/web_crawler/web_crawler_mapreduce.py
+[written 5026 3] ../checkout/donnemartin/system-design-primer/solutions/system_design/web_crawler/web_crawler_snippets.py 
+https://raw.githubusercontent.com/donnemartin/system-design-primer/master/solutions/system_design/web_crawler/web_crawler_snippets.py
+5026: TheAlgorithms/Python, master
+[written 5027 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/__init__.py
+[written 5028 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/bisection.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/bisection.py
+[written 5029 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/gaussian_elimination.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/gaussian_elimination.py
+[written 5030 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/image_data/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/image_data/__init__.py
+[written 5031 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/in_static_equilibrium.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/in_static_equilibrium.py
+[written 5032 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/intersection.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/intersection.py
+[written 5033 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/lu_decomposition.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/lu_decomposition.py
+[written 5034 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/newton_forward_interpolation.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/newton_forward_interpolation.py
+[written 5035 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/newton_method.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/newton_method.py
+[written 5036 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/newton_raphson.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/newton_raphson.py
+[written 5037 3] ../checkout/TheAlgorithms/Python/arithmetic_analysis/secant_method.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/arithmetic_analysis/secant_method.py
+[written 5038 3] ../checkout/TheAlgorithms/Python/audio_filters/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/audio_filters/__init__.py
+[written 5039 3] ../checkout/TheAlgorithms/Python/audio_filters/butterworth_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/audio_filters/butterworth_filter.py
+[written 5040 3] ../checkout/TheAlgorithms/Python/audio_filters/iir_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/audio_filters/iir_filter.py
+[written 5041 3] ../checkout/TheAlgorithms/Python/audio_filters/show_response.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/audio_filters/show_response.py
+[written 5042 3] ../checkout/TheAlgorithms/Python/backtracking/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/__init__.py
+[written 5043 3] ../checkout/TheAlgorithms/Python/backtracking/all_combinations.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/all_combinations.py
+[written 5044 3] ../checkout/TheAlgorithms/Python/backtracking/all_permutations.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/all_permutations.py
+[written 5045 3] ../checkout/TheAlgorithms/Python/backtracking/all_subsequences.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/all_subsequences.py
+[written 5046 3] ../checkout/TheAlgorithms/Python/backtracking/coloring.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/coloring.py
+[written 5047 3] ../checkout/TheAlgorithms/Python/backtracking/hamiltonian_cycle.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/hamiltonian_cycle.py
+[written 5048 3] ../checkout/TheAlgorithms/Python/backtracking/knight_tour.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/knight_tour.py
+[written 5049 3] ../checkout/TheAlgorithms/Python/backtracking/minimax.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/minimax.py
+[written 5050 3] ../checkout/TheAlgorithms/Python/backtracking/n_queens.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/n_queens.py
+[written 5051 3] ../checkout/TheAlgorithms/Python/backtracking/n_queens_math.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/n_queens_math.py
+[written 5052 3] ../checkout/TheAlgorithms/Python/backtracking/rat_in_maze.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/rat_in_maze.py
+[written 5053 3] ../checkout/TheAlgorithms/Python/backtracking/sudoku.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/sudoku.py
+[written 5054 3] ../checkout/TheAlgorithms/Python/backtracking/sum_of_subsets.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/backtracking/sum_of_subsets.py
+[written 5055 3] ../checkout/TheAlgorithms/Python/bit_manipulation/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/__init__.py
+[written 5056 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_and_operator.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_and_operator.py
+[written 5057 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_count_setbits.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_count_setbits.py
+[written 5058 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_count_trailing_zeros.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_count_trailing_zeros.py
+[written 5059 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_or_operator.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_or_operator.py
+[written 5060 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_shifts.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_shifts.py
+[written 5061 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_twos_complement.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_twos_complement.py
+[written 5062 3] ../checkout/TheAlgorithms/Python/bit_manipulation/binary_xor_operator.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/binary_xor_operator.py
+[written 5063 3] ../checkout/TheAlgorithms/Python/bit_manipulation/count_1s_brian_kernighan_method.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/count_1s_brian_kernighan_method.py
+[written 5064 3] ../checkout/TheAlgorithms/Python/bit_manipulation/count_number_of_one_bits.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/count_number_of_one_bits.py
+[written 5065 3] ../checkout/TheAlgorithms/Python/bit_manipulation/gray_code_sequence.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/gray_code_sequence.py
+[written 5066 3] ../checkout/TheAlgorithms/Python/bit_manipulation/reverse_bits.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/reverse_bits.py
+[written 5067 3] ../checkout/TheAlgorithms/Python/bit_manipulation/single_bit_manipulation_operations.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/bit_manipulation/single_bit_manipulation_operations.py
+[written 5068 3] ../checkout/TheAlgorithms/Python/blockchain/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/blockchain/__init__.py
+[written 5069 3] ../checkout/TheAlgorithms/Python/blockchain/chinese_remainder_theorem.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/blockchain/chinese_remainder_theorem.py
+[written 5070 3] ../checkout/TheAlgorithms/Python/blockchain/diophantine_equation.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/blockchain/diophantine_equation.py
+[written 5071 3] ../checkout/TheAlgorithms/Python/blockchain/modular_division.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/blockchain/modular_division.py
+[written 5072 3] ../checkout/TheAlgorithms/Python/boolean_algebra/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/boolean_algebra/__init__.py
+[written 5073 3] ../checkout/TheAlgorithms/Python/boolean_algebra/quine_mc_cluskey.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/boolean_algebra/quine_mc_cluskey.py
+[written 5074 3] ../checkout/TheAlgorithms/Python/cellular_automata/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/cellular_automata/__init__.py
+[written 5075 3] ../checkout/TheAlgorithms/Python/cellular_automata/conways_game_of_life.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/cellular_automata/conways_game_of_life.py
+[written 5076 3] ../checkout/TheAlgorithms/Python/cellular_automata/game_of_life.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/cellular_automata/game_of_life.py
+[written 5077 3] ../checkout/TheAlgorithms/Python/cellular_automata/nagel_schrekenberg.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/cellular_automata/nagel_schrekenberg.py
+[written 5078 3] ../checkout/TheAlgorithms/Python/cellular_automata/one_dimensional.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/cellular_automata/one_dimensional.py
+[written 5079 3] ../checkout/TheAlgorithms/Python/ciphers/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/__init__.py
+[written 5080 3] ../checkout/TheAlgorithms/Python/ciphers/a1z26.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/a1z26.py
+[written 5081 3] ../checkout/TheAlgorithms/Python/ciphers/affine_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/affine_cipher.py
+[written 5082 3] ../checkout/TheAlgorithms/Python/ciphers/atbash.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/atbash.py
+[written 5083 3] ../checkout/TheAlgorithms/Python/ciphers/baconian_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/baconian_cipher.py
+[written 5084 3] ../checkout/TheAlgorithms/Python/ciphers/base16.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/base16.py
+[written 5085 3] ../checkout/TheAlgorithms/Python/ciphers/base32.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/base32.py
+[written 5086 3] ../checkout/TheAlgorithms/Python/ciphers/base64.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/base64.py
+[written 5087 3] ../checkout/TheAlgorithms/Python/ciphers/base85.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/base85.py
+[written 5088 3] ../checkout/TheAlgorithms/Python/ciphers/beaufort_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/beaufort_cipher.py
+[written 5089 3] ../checkout/TheAlgorithms/Python/ciphers/bifid.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/bifid.py
+[written 5090 3] ../checkout/TheAlgorithms/Python/ciphers/brute_force_caesar_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/brute_force_caesar_cipher.py
+[written 5091 3] ../checkout/TheAlgorithms/Python/ciphers/caesar_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/caesar_cipher.py
+[written 5092 3] ../checkout/TheAlgorithms/Python/ciphers/cryptomath_module.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/cryptomath_module.py
+[written 5093 3] ../checkout/TheAlgorithms/Python/ciphers/decrypt_caesar_with_chi_squared.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/decrypt_caesar_with_chi_squared.py
+[written 5094 3] ../checkout/TheAlgorithms/Python/ciphers/deterministic_miller_rabin.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/deterministic_miller_rabin.py
+[written 5095 3] ../checkout/TheAlgorithms/Python/ciphers/diffie.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/diffie.py
+[written 5096 3] ../checkout/TheAlgorithms/Python/ciphers/diffie_hellman.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/diffie_hellman.py
+[written 5097 3] ../checkout/TheAlgorithms/Python/ciphers/elgamal_key_generator.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/elgamal_key_generator.py
+[written 5098 3] ../checkout/TheAlgorithms/Python/ciphers/enigma_machine2.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/enigma_machine2.py
+[written 5099 3] ../checkout/TheAlgorithms/Python/ciphers/hill_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/hill_cipher.py
+[written 5100 3] ../checkout/TheAlgorithms/Python/ciphers/mixed_keyword_cypher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/mixed_keyword_cypher.py
+[written 5101 3] ../checkout/TheAlgorithms/Python/ciphers/mono_alphabetic_ciphers.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/mono_alphabetic_ciphers.py
+[written 5102 3] ../checkout/TheAlgorithms/Python/ciphers/morse_code.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/morse_code.py
+[written 5103 3] ../checkout/TheAlgorithms/Python/ciphers/onepad_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/onepad_cipher.py
+[written 5104 3] ../checkout/TheAlgorithms/Python/ciphers/playfair_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/playfair_cipher.py
+[written 5105 3] ../checkout/TheAlgorithms/Python/ciphers/polybius.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/polybius.py
+[written 5106 3] ../checkout/TheAlgorithms/Python/ciphers/porta_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/porta_cipher.py
+[written 5107 3] ../checkout/TheAlgorithms/Python/ciphers/rabin_miller.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rabin_miller.py
+[written 5108 3] ../checkout/TheAlgorithms/Python/ciphers/rail_fence_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rail_fence_cipher.py
+[written 5109 3] ../checkout/TheAlgorithms/Python/ciphers/rot13.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rot13.py
+[written 5110 3] ../checkout/TheAlgorithms/Python/ciphers/rsa_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rsa_cipher.py
+[written 5111 3] ../checkout/TheAlgorithms/Python/ciphers/rsa_factorization.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rsa_factorization.py
+[written 5112 3] ../checkout/TheAlgorithms/Python/ciphers/rsa_key_generator.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/rsa_key_generator.py
+[written 5113 3] ../checkout/TheAlgorithms/Python/ciphers/shuffled_shift_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/shuffled_shift_cipher.py
+[written 5114 3] ../checkout/TheAlgorithms/Python/ciphers/simple_keyword_cypher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/simple_keyword_cypher.py
+[written 5115 3] ../checkout/TheAlgorithms/Python/ciphers/simple_substitution_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/simple_substitution_cipher.py
+[written 5116 3] ../checkout/TheAlgorithms/Python/ciphers/trafid_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/trafid_cipher.py
+[written 5117 3] ../checkout/TheAlgorithms/Python/ciphers/transposition_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/transposition_cipher.py
+[written 5118 3] ../checkout/TheAlgorithms/Python/ciphers/transposition_cipher_encrypt_decrypt_file.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/transposition_cipher_encrypt_decrypt_file.py
+[written 5119 3] ../checkout/TheAlgorithms/Python/ciphers/vigenere_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/vigenere_cipher.py
+[written 5120 3] ../checkout/TheAlgorithms/Python/ciphers/xor_cipher.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/ciphers/xor_cipher.py
+[written 5121 3] ../checkout/TheAlgorithms/Python/compression/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/__init__.py
+[written 5122 3] ../checkout/TheAlgorithms/Python/compression/burrows_wheeler.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/burrows_wheeler.py
+[written 5123 3] ../checkout/TheAlgorithms/Python/compression/huffman.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/huffman.py
+[written 5124 3] ../checkout/TheAlgorithms/Python/compression/image_data/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/image_data/__init__.py
+[written 5125 3] ../checkout/TheAlgorithms/Python/compression/lempel_ziv.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/lempel_ziv.py
+[written 5126 3] ../checkout/TheAlgorithms/Python/compression/lempel_ziv_decompress.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/lempel_ziv_decompress.py
+[written 5127 3] ../checkout/TheAlgorithms/Python/compression/peak_signal_to_noise_ratio.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/compression/peak_signal_to_noise_ratio.py
+[written 5128 3] ../checkout/TheAlgorithms/Python/computer_vision/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/computer_vision/__init__.py
+[written 5129 3] ../checkout/TheAlgorithms/Python/computer_vision/cnn_classification.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/computer_vision/cnn_classification.py
+[written 5130 3] ../checkout/TheAlgorithms/Python/computer_vision/harris_corner.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/computer_vision/harris_corner.py
+[written 5131 3] ../checkout/TheAlgorithms/Python/computer_vision/mean_threshold.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/computer_vision/mean_threshold.py
+[written 5132 3] ../checkout/TheAlgorithms/Python/conversions/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/__init__.py
+[written 5133 3] ../checkout/TheAlgorithms/Python/conversions/binary_to_decimal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/binary_to_decimal.py
+[written 5134 3] ../checkout/TheAlgorithms/Python/conversions/binary_to_hexadecimal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/binary_to_hexadecimal.py
+[written 5135 3] ../checkout/TheAlgorithms/Python/conversions/binary_to_octal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/binary_to_octal.py
+[written 5136 3] ../checkout/TheAlgorithms/Python/conversions/decimal_to_any.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/decimal_to_any.py
+[written 5137 3] ../checkout/TheAlgorithms/Python/conversions/decimal_to_binary.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/decimal_to_binary.py
+[written 5138 3] ../checkout/TheAlgorithms/Python/conversions/decimal_to_binary_recursion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/decimal_to_binary_recursion.py
+[written 5139 3] ../checkout/TheAlgorithms/Python/conversions/decimal_to_hexadecimal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/decimal_to_hexadecimal.py
+[written 5140 3] ../checkout/TheAlgorithms/Python/conversions/decimal_to_octal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/decimal_to_octal.py
+[written 5141 3] ../checkout/TheAlgorithms/Python/conversions/hex_to_bin.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/hex_to_bin.py
+[written 5142 3] ../checkout/TheAlgorithms/Python/conversions/hexadecimal_to_decimal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/hexadecimal_to_decimal.py
+[written 5143 3] ../checkout/TheAlgorithms/Python/conversions/length_conversion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/length_conversion.py
+[written 5144 3] ../checkout/TheAlgorithms/Python/conversions/molecular_chemistry.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/molecular_chemistry.py
+[written 5145 3] ../checkout/TheAlgorithms/Python/conversions/octal_to_decimal.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/octal_to_decimal.py
+[written 5146 3] ../checkout/TheAlgorithms/Python/conversions/prefix_conversions.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/prefix_conversions.py
+[written 5147 3] ../checkout/TheAlgorithms/Python/conversions/pressure_conversions.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/pressure_conversions.py
+[written 5148 3] ../checkout/TheAlgorithms/Python/conversions/rgb_hsv_conversion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/rgb_hsv_conversion.py
+[written 5149 3] ../checkout/TheAlgorithms/Python/conversions/roman_numerals.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/roman_numerals.py
+[written 5150 3] ../checkout/TheAlgorithms/Python/conversions/temperature_conversions.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/temperature_conversions.py
+[written 5151 3] ../checkout/TheAlgorithms/Python/conversions/volume_conversions.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/volume_conversions.py
+[written 5152 3] ../checkout/TheAlgorithms/Python/conversions/weight_conversion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/conversions/weight_conversion.py
+[written 5153 3] ../checkout/TheAlgorithms/Python/data_structures/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/__init__.py
+[written 5154 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/__init__.py
+[written 5155 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/avl_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/avl_tree.py
+[written 5156 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/basic_binary_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/basic_binary_tree.py
+[written 5157 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/binary_search_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/binary_search_tree.py
+[written 5158 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/binary_search_tree_recursive.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/binary_search_tree_recursive.py
+[written 5159 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/binary_tree_mirror.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/binary_tree_mirror.py
+[written 5160 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/binary_tree_traversals.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/binary_tree_traversals.py
+[written 5161 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/fenwick_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/fenwick_tree.py
+[written 5162 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/lazy_segment_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/lazy_segment_tree.py
+[written 5163 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/lowest_common_ancestor.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/lowest_common_ancestor.py
+[written 5164 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/merge_two_binary_trees.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/merge_two_binary_trees.py
+[written 5165 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/non_recursive_segment_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/non_recursive_segment_tree.py
+[written 5166 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/number_of_possible_binary_trees.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/number_of_possible_binary_trees.py
+[written 5167 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/red_black_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/red_black_tree.py
+[written 5168 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/segment_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/segment_tree.py
+[written 5169 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/segment_tree_other.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/segment_tree_other.py
+[written 5170 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/treap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/treap.py
+[written 5171 3] ../checkout/TheAlgorithms/Python/data_structures/binary_tree/wavelet_tree.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/binary_tree/wavelet_tree.py
+[written 5172 3] ../checkout/TheAlgorithms/Python/data_structures/disjoint_set/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/disjoint_set/__init__.py
+[written 5173 3] ../checkout/TheAlgorithms/Python/data_structures/disjoint_set/alternate_disjoint_set.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/disjoint_set/alternate_disjoint_set.py
+[written 5174 3] ../checkout/TheAlgorithms/Python/data_structures/disjoint_set/disjoint_set.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/disjoint_set/disjoint_set.py
+[written 5175 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/__init__.py
+[written 5176 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/double_hash.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/double_hash.py
+[written 5177 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/hash_table.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/hash_table.py
+[written 5178 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/hash_table_with_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/hash_table_with_linked_list.py
+[written 5179 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/number_theory/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/number_theory/__init__.py
+[written 5180 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/number_theory/prime_numbers.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/number_theory/prime_numbers.py
+[written 5181 3] ../checkout/TheAlgorithms/Python/data_structures/hashing/quadratic_probing.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/hashing/quadratic_probing.py
+[written 5182 3] ../checkout/TheAlgorithms/Python/data_structures/heap/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/__init__.py
+[written 5183 3] ../checkout/TheAlgorithms/Python/data_structures/heap/binomial_heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/binomial_heap.py
+[written 5184 3] ../checkout/TheAlgorithms/Python/data_structures/heap/heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/heap.py
+[written 5185 3] ../checkout/TheAlgorithms/Python/data_structures/heap/heap_generic.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/heap_generic.py
+[written 5186 3] ../checkout/TheAlgorithms/Python/data_structures/heap/max_heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/max_heap.py
+[written 5187 3] ../checkout/TheAlgorithms/Python/data_structures/heap/min_heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/min_heap.py
+[written 5188 3] ../checkout/TheAlgorithms/Python/data_structures/heap/randomized_heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/randomized_heap.py
+[written 5189 3] ../checkout/TheAlgorithms/Python/data_structures/heap/skew_heap.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/heap/skew_heap.py
+[written 5190 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/__init__.py
+[written 5191 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/circular_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/circular_linked_list.py
+[written 5192 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/deque_doubly.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/deque_doubly.py
+[written 5193 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/doubly_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/doubly_linked_list.py
+[written 5194 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/doubly_linked_list_two.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/doubly_linked_list_two.py
+[written 5195 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/from_sequence.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/from_sequence.py
+[written 5196 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/has_loop.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/has_loop.py
+[written 5197 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/is_palindrome.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/is_palindrome.py
+[written 5198 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/merge_two_lists.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/merge_two_lists.py
+[written 5199 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/middle_element_of_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/middle_element_of_linked_list.py
+[written 5200 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/print_reverse.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/print_reverse.py
+[written 5201 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/singly_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/singly_linked_list.py
+[written 5202 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/skip_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/skip_list.py
+[written 5203 3] ../checkout/TheAlgorithms/Python/data_structures/linked_list/swap_nodes.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/linked_list/swap_nodes.py
+[written 5204 3] ../checkout/TheAlgorithms/Python/data_structures/queue/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/__init__.py
+[written 5205 3] ../checkout/TheAlgorithms/Python/data_structures/queue/circular_queue.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/circular_queue.py
+[written 5206 3] ../checkout/TheAlgorithms/Python/data_structures/queue/circular_queue_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/circular_queue_linked_list.py
+[written 5207 3] ../checkout/TheAlgorithms/Python/data_structures/queue/double_ended_queue.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/double_ended_queue.py
+[written 5208 3] ../checkout/TheAlgorithms/Python/data_structures/queue/linked_queue.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/linked_queue.py
+[written 5209 3] ../checkout/TheAlgorithms/Python/data_structures/queue/priority_queue_using_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/priority_queue_using_list.py
+[written 5210 3] ../checkout/TheAlgorithms/Python/data_structures/queue/queue_on_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/queue_on_list.py
+[written 5211 3] ../checkout/TheAlgorithms/Python/data_structures/queue/queue_on_pseudo_stack.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/queue/queue_on_pseudo_stack.py
+[written 5212 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/__init__.py
+[written 5213 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/balanced_parentheses.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/balanced_parentheses.py
+[written 5214 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/dijkstras_two_stack_algorithm.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/dijkstras_two_stack_algorithm.py
+[written 5215 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/evaluate_postfix_notations.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/evaluate_postfix_notations.py
+[written 5216 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/infix_to_postfix_conversion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/infix_to_postfix_conversion.py
+[written 5217 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/infix_to_prefix_conversion.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/infix_to_prefix_conversion.py
+[written 5218 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/next_greater_element.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/next_greater_element.py
+[written 5219 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/postfix_evaluation.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/postfix_evaluation.py
+[written 5220 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/prefix_evaluation.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/prefix_evaluation.py
+[written 5221 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/stack.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/stack.py
+[written 5222 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/stack_with_doubly_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/stack_with_doubly_linked_list.py
+[written 5223 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/stack_with_singly_linked_list.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/stack_with_singly_linked_list.py
+[written 5224 3] ../checkout/TheAlgorithms/Python/data_structures/stacks/stock_span_problem.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/stacks/stock_span_problem.py
+[written 5225 3] ../checkout/TheAlgorithms/Python/data_structures/trie/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/trie/__init__.py
+[written 5226 3] ../checkout/TheAlgorithms/Python/data_structures/trie/trie.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/data_structures/trie/trie.py
+[written 5227 3] ../checkout/TheAlgorithms/Python/digital_image_processing/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/__init__.py
+[written 5228 3] ../checkout/TheAlgorithms/Python/digital_image_processing/change_brightness.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/change_brightness.py
+[written 5229 3] ../checkout/TheAlgorithms/Python/digital_image_processing/change_contrast.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/change_contrast.py
+[written 5230 3] ../checkout/TheAlgorithms/Python/digital_image_processing/convert_to_negative.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/convert_to_negative.py
+[written 5231 3] ../checkout/TheAlgorithms/Python/digital_image_processing/dithering/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/dithering/__init__.py
+[written 5232 3] ../checkout/TheAlgorithms/Python/digital_image_processing/dithering/burkes.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/dithering/burkes.py
+[written 5233 3] ../checkout/TheAlgorithms/Python/digital_image_processing/edge_detection/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/edge_detection/__init__.py
+[written 5234 3] ../checkout/TheAlgorithms/Python/digital_image_processing/edge_detection/canny.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/edge_detection/canny.py
+[written 5235 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/__init__.py
+[written 5236 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/bilateral_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/bilateral_filter.py
+[written 5237 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/convolve.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/convolve.py
+[written 5238 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/gabor_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/gabor_filter.py
+[written 5239 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/gaussian_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/gaussian_filter.py
+[written 5240 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/median_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/median_filter.py
+[written 5241 3] ../checkout/TheAlgorithms/Python/digital_image_processing/filters/sobel_filter.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/filters/sobel_filter.py
+[written 5242 3] ../checkout/TheAlgorithms/Python/digital_image_processing/histogram_equalization/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/histogram_equalization/__init__.py
+[written 5243 3] ../checkout/TheAlgorithms/Python/digital_image_processing/histogram_equalization/histogram_stretch.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/histogram_equalization/histogram_stretch.py
+[written 5244 3] ../checkout/TheAlgorithms/Python/digital_image_processing/histogram_equalization/image_data/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/histogram_equalization/image_data/__init__.py
+[written 5245 3] ../checkout/TheAlgorithms/Python/digital_image_processing/histogram_equalization/output_data/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/histogram_equalization/output_data/__init__.py
+[written 5246 3] ../checkout/TheAlgorithms/Python/digital_image_processing/image_data/__init__.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/image_data/__init__.py
+[written 5247 3] ../checkout/TheAlgorithms/Python/digital_image_processing/index_calculation.py 
+https://raw.githubusercontent.com/TheAlgorithms/Python/master/digital_image_processing/index_calculation.py
