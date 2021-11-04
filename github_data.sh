@@ -48,7 +48,7 @@ resolve_file(){
     wrepo_type="$(echo "${cur_f}"| jq -r '.type')"
     wrepo_url="$(echo "${cur_f}"| jq -r '.url')"
     wrepo_path="$(echo "${cur_f}"| jq -r '.path')"
-    echo "[]get $wrepo_name $wrepo_type;"
+    # echo "[]get $wrepo_name $wrepo_type;"
     case $wrepo_type in
       file)
         # echo "[]$wrepo_name is file."
@@ -69,7 +69,7 @@ resolve_file(){
         esac
         ;;
       dir)
-        echo "[]$wrepo_name is folder."
+        # echo "[]$wrepo_name is folder."
         case $wrepo_name in
           .git)
             ;;
