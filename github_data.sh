@@ -5,8 +5,6 @@ save_p='../checkout'
 per_page=100
 file_count=0
 get_repo(){
-  echo "In repo $1"
-  # exit
   jqvars="$(echo "$1" | jq '{branch: .default_branch, name: .full_name}')"
   reponame="$(  echo "${jqvars}" | jq -r '.name' )"
   repobranch="$(  echo "${jqvars}" | jq -r '.branch' )"
@@ -33,25 +31,24 @@ write_page(){
 
 resolve_file(){
   repofull_path=$2
-  echo $repofull_path
-  # echo $1
   geturl="$(echo $1 | jq -cr '.[]')"
-  # row="${geturl}"
   for cur_f in ${geturl}; do
     wrepo_name="$(echo "${cur_f}"| jq -r '.name')"
     wrepo_type="$(echo "${cur_f}"| jq -r '.type')"
     wrepo_url="$(echo "${cur_f}"| jq -r '.url')"
     wrepo_path="$(echo "${cur_f}"| jq -r '.path')"
-    echo "[]get $wrepo_name $wrepo_type;"
+    # echo "[]get $wrepo_name $wrepo_type;"
     case $wrepo_type in
       file)
         # echo "[]$wrepo_name is file."
         file_count=$((file_count+1))
+        wrepo_dl="$(echo "${cur_f}"| jq -r '.download_url')"
         case $wrepo_name in
-
           *.py)
-            echo "making dir $save_p/$repofull_path/$wrepo_path"
-            mkdir -p "$save_p/$repofull_path/$wrepo_path"
+            mkdir -p "$save_p/$repofull_path/${wrepo_path%/*}"
+            curl -s $wrepo_dl > "$save_p/$repofull_path/$wrepo_path"
+            echo "[written] $save_p/$repofull_path/$wrepo_path "
+            echo "[written] $save_p/$repofull_path/$wrepo_path " >> logs
             ;;
           *)
             
@@ -67,15 +64,12 @@ resolve_file(){
             ;;
             *)
               wrepo_curl_out="$(curl -s $wrepo_url)" 
-              echo "recur on $repofull_path/$wrepo_path at $wrepo_url"
               resolve_file "${wrepo_curl_out}" $repofull_path
             ;;
         esac
         ;;
       *)echo "[]Skipped $wrepo_type";;
-  
     esac
-    
   done
 }
 
@@ -84,22 +78,16 @@ resolve_file(){
 write_repo(){
   cur_page_file="$(cat  $githubOutFile | jq -c '[.items] | .[0]| .[] | {default_branch: .default_branch, full_name: .full_name}')"
 
-  # exit
   for one_repo in ${cur_page_file}; do
-    echo "$(get_repo $one_repo)"
-    echo ""
     currepo_name="$(get_repo_n $one_repo )"
     curl_out="$(curl -s $(get_repo $one_repo ))" 
     resolve_file "${curl_out}" $currepo_name
-    # echo "${geturl}"
-    exit
-
   done
 
 }
 echo "" > logs
 i=1
-while [ "$i" -le 1 ]; do
+while [ "$i" -le 4 ]; do
     # amixer cset numid=1 "$i%"
 
   echo "Page $i"
