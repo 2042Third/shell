@@ -1,9 +1,9 @@
 #!/bin/bash
-githubOutFile='./github_out.json'
+githubOutFile='./github_outtwo.json'
 save_p='../checkout'
-cur_page=1
+# cur_page=1
 per_page=100
-file_count=5000
+file_count=14000
 github_u=$1
 github_s=$2
 if [ -z "$github_s" ]; then 
@@ -17,7 +17,7 @@ get_repo(){
   reponame="$(  echo "${jqvars}" | jq -r '.name' )"
   repobranch="$(  echo "${jqvars}" | jq -r '.branch' )"
 
-  echo "$file_count: $reponame, $repobranch" >> logs
+  echo "$file_count: $reponame, $repobranch" >> gitlogs
   echo "https://api.github.com/repos/${reponame}/contents?ref=${repobranch}"
 }
 get_repo_n(){
@@ -33,9 +33,7 @@ get_query_len(){
 }
 
 write_page(){
-  # echo "page number $cur_page"
-  _page="$(curl -u "$github_u:$github_s" -s -H "Accept: application/vnd.github.v3+json" -X GET 'https://api.github.com/search/repositories?q=language:Python+is:public&page='$cur_page'&per_page='$per_page)"
-  
+  _page="$(curl -u "$github_u:$github_s" -s -H "Accept: application/vnd.github.v3+json" -X GET https://api.github.com/search/repositories?q=language:Python+is:public&page=$cur_page&per_page=$per_page)"
   echo "${_page}"
 }
 
@@ -60,8 +58,8 @@ resolve_file(){
             curl -u "$github_u:$github_s" -s $wrepo_dl > "$save_p/$repofull_path/$wrepo_path"
             file_count=$((file_count+1))
             echo "[written $file_count $cur_page] $save_p/$repofull_path/$wrepo_path "
-            echo "[written $file_count $cur_page] $save_p/$repofull_path/$wrepo_path " >> logs
-            echo "$wrepo_dl" >> logs
+            echo "[written $file_count $cur_page] $save_p/$repofull_path/$wrepo_path " >> gitlogs
+	          echo "$wrepo_dl" >> gitlogs
             ;;
           *)
             
@@ -98,16 +96,15 @@ write_repo(){
   done
 
 }
-echo "" > logs
-i=2
+echo "" > gitlogs
+i=3
 while [ "$i" -le 8000 ]; do
     # amixer cset numid=1 "$i%"
 
   echo "Page $i"
-  echo "Page $i, $(date)" >> logs
+  echo "Page $i, $(date)" >> gitlogs
   cur_page=$i
-  write_page > github_out.json
-
+  write_page > github_outtwo.json
   write_repo
   echo $(get_query_len)
   i=$(( i + 1 ))
