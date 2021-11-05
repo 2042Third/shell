@@ -3,7 +3,7 @@ githubOutFile='./github_out.json'
 save_p='../checkout'
 cur_page=1
 per_page=100
-file_count=5000
+file_count=0
 github_u=$1
 github_s=$2
 if [ -z "$github_s" ]; then 
@@ -34,7 +34,7 @@ get_query_len(){
 
 write_page(){
   # echo "page number $cur_page"
-  _page="$(curl -u "$github_u:$github_s" -s -H "Accept: application/vnd.github.v3+json" -X GET 'https://api.github.com/search/repositories?q=language:Python+is:public&page='$cur_page'&per_page='$per_page)"
+  _page="$(curl -u "$github_u:$github_s" -s -H "Accept: application/vnd.github.v3+json" -X GET 'https://api.github.com/search/repositories?q=language:Python+is:public&page='$cur_page'&per_page='$per_page'&sort=updated')"
   
   echo "${_page}"
 }
@@ -42,12 +42,19 @@ write_page(){
 resolve_file(){
   repofull_path=$2
   echo $repofull_path
+  
   geturl="$(echo $1 | jq -cr '.[]')"
   for cur_f in ${geturl}; do
+    # if ! echo "${cur_f}"| jq -r '.type';then
+    #   echo "Sleeping..."
+    #   echo "Slept 10m $(date)" >> logs
+    #   sleep 10m
+    # fi
     wrepo_name="$(echo "${cur_f}"| jq -r '.name')"
     wrepo_type="$(echo "${cur_f}"| jq -r '.type')"
     wrepo_url="$(echo "${cur_f}"| jq -r '.url')"
     wrepo_path="$(echo "${cur_f}"| jq -r '.path')"
+
     # echo "[]get $wrepo_name $wrepo_type;"
     case $wrepo_type in
       file)
@@ -89,6 +96,17 @@ resolve_file(){
 
 
 write_repo(){
+  # if cat  $githubOutFile | jq -c '.message' ;then
+  #   echo "Sleeping.. 10m $(date)" 
+  #   echo "Slept 10m $(date)" >> logs
+  #   sleep 10m
+  # fi
+  if [ -z $(cat  $githubOutFile | jq -c '.message') ]; then 
+    echo "Sleeping.. 10m $(date)" 
+    echo "Slept 10m $(date)" >> logs
+    sleep 10m
+  fi
+  
   cur_page_file="$(cat  $githubOutFile | jq -c '[.items] | .[0]| .[] | {default_branch: .default_branch, full_name: .full_name}')"
 
   for one_repo in ${cur_page_file}; do
@@ -99,7 +117,7 @@ write_repo(){
 
 }
 echo "" > logs
-i=2
+i=8
 while [ "$i" -le 8000 ]; do
     # amixer cset numid=1 "$i%"
 
@@ -110,7 +128,7 @@ while [ "$i" -le 8000 ]; do
 
   write_repo
   echo $(get_query_len)
-  i=$(( i + 1 ))
+  # i=$(( i + 1 ))
 done 
 
 

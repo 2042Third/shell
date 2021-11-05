@@ -1,6 +1,2 @@
-{
-  "total_count": 7772609,
-  "incomplete_results": true,
-  "items":[{"full_name":"foo","default_branch":"hah1"},{"full_name":"bar","default_branch":"hah2"}
-  ]
-}
+{"full_name":"foo","default_branch":"hah1"
+  
