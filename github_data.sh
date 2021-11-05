@@ -101,11 +101,20 @@ write_repo(){
   #   echo "Slept 10m $(date)" >> logs
   #   sleep 10m
   # fi
-  if [ -z $(cat  $githubOutFile | jq -c '.message') ]; then 
+  err_check="$(curl -u $github_u:$github_s https://api.github.com/search/repository | jq -cr '.message')"
+  echo "${err_check}"
+  case $err_check in
+    API*)
     echo "Sleeping.. 10m $(date)" 
     echo "Slept 10m $(date)" >> logs
     sleep 10m
-  fi
+    ;;
+  esac
+  # if [ -z "${err_check}" ]; then 
+  #   echo "Sleeping.. 10m $(date)" 
+  #   echo "Slept 10m $(date)" >> logs
+  #   sleep 10m
+  # fi
   
   cur_page_file="$(cat  $githubOutFile | jq -c '[.items] | .[0]| .[] | {default_branch: .default_branch, full_name: .full_name}')"
 
@@ -116,6 +125,7 @@ write_repo(){
   done
 
 }
+
 echo "" > logs
 i=8
 while [ "$i" -le 8000 ]; do
